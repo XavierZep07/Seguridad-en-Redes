@@ -6,7 +6,9 @@ If I told you a word started with 0x70 in hexadecimal, what would it start with 
 ### Soluciones
 Use una pagina para convertir de HEX a  Ascii
 
-```picoCTF{p}```
+```
+picoCTF{p}
+```
 
 
 ### Notas adicionales 
