@@ -1,21 +1,13 @@
 ### Descripción 
-Sometimes you need to handle process data outside of a file. Can you find a way to keep the output from this program and search for the flag? Connect to `jupiter.challenges.picoctf.org 14291`.
-
+Can you look at the data in this binary: [static](https://mercury.picoctf.net/static/ec4dbd8898ade34e1d60d5b70c1b8c8c/static)? This [BASH script](https://mercury.picoctf.net/static/ec4dbd8898ade34e1d60d5b70c1b8c8c/ltdis.sh) might help!
 ### Soluciones
 
-Utilizando netcat como en el ejercicio anterior pude entrar al contenido de la pagina, despues de eso solo utilice un buscador como en un ejercicio anterior el cual era 
-
-```
-nc jupiter.challenges.picoctf.org 14291 | grep "pico"
-```
-
-esto solo para que me filtrara la linea donde estaba la respuesta
-
+Utilizando de nuevo los comandos de netcat, ademas del grep, fue el mismo procedimiento para poder leer el archivo que me daba el problema y filtrarlo por la linea picoCTF
 
 RESPUESTA
 
 ```
-picoCTF{digital_plumb3r_ea8bfec7}
+picoCTF{d15a5m_t34s3r_98d35619}
 ```
 
 

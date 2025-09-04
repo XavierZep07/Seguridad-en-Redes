@@ -1,21 +1,15 @@
 ### Descripción 
-Sometimes you need to handle process data outside of a file. Can you find a way to keep the output from this program and search for the flag? Connect to `jupiter.challenges.picoctf.org 14291`.
+Using tabcomplete in the Terminal will add years to your life, esp. when dealing with long rambling directory structures and filenames: [Addadshashanammu.zip]
 
 ### Soluciones
 
-Utilizando netcat como en el ejercicio anterior pude entrar al contenido de la pagina, despues de eso solo utilice un buscador como en un ejercicio anterior el cual era 
-
-```
-nc jupiter.challenges.picoctf.org 14291 | grep "pico"
-```
-
-esto solo para que me filtrara la linea donde estaba la respuesta
+para empezar descomprimi la carpeta que da el problema y me movi hasta la carpeta final para abrir el archivo, despues abri el archivo solo filtre para que me diera la linea donde estaba la bandera
 
 
 RESPUESTA
 
 ```
-picoCTF{digital_plumb3r_ea8bfec7}
+picoCTF{l3v3l_up!_t4k3_4_r35t!_76266e38}
 ```
 
 

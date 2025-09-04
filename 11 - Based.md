@@ -1,26 +1,21 @@
-### Descripción 
-Sometimes you need to handle process data outside of a file. Can you find a way to keep the output from this program and search for the flag? Connect to `jupiter.challenges.picoctf.org 14291`.
+ ### Descripción 
+To get truly 1337, you must understand different data encodings, such as hexadecimal or binary. Can you get the flag from this program to prove you are on the way to becoming 1337? Connect with `nc jupiter.challenges.picoctf.org 29221`.
 
 ### Soluciones
 
-Utilizando netcat como en el ejercicio anterior pude entrar al contenido de la pagina, despues de eso solo utilice un buscador como en un ejercicio anterior el cual era 
-
-```
-nc jupiter.challenges.picoctf.org 14291 | grep "pico"
-```
-
-esto solo para que me filtrara la linea donde estaba la respuesta
-
+Este ejercicio fue mas complicado ya que tenia tiempo para completarse, por lo que rapidamente me di cuenta que tenia que transformar las cadenas de numeros a textos para poder darle las palabras claves, todo esto en menos de 45 segundos, por que lo mas facil que pense es en usar diversos convertores de internet
 
 RESPUESTA
 
 ```
-picoCTF{digital_plumb3r_ea8bfec7}
+picoCTF{learning_about_converting_values_00a975ff}
 ```
 
 
 ### Notas adicionales 
 
-utilice conocimientos aprendidos en ejercicios anteriores
-
+utilizar las pistas es muy util
 ### Referencias 
+https://www.rapidtables.com/convert/number/binary-to-ascii.html
+https://www.unit-conversion.info/texttools/octal/
+https://www.rapidtables.com/convert/number/hex-to-ascii.html

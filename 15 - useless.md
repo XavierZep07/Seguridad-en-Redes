@@ -1,21 +1,24 @@
 ### Descripción 
-Sometimes you need to handle process data outside of a file. Can you find a way to keep the output from this program and search for the flag? Connect to `jupiter.challenges.picoctf.org 14291`.
+There's an interesting script in the user's home directoryThe work computer is running SSH. We've been given a script which performs some basic calculations, explore the script and find a flag.
+
+Hostname: saturn.picoctf.net 
+Port:52958 
+Username: picoplayer Password: password
+
 
 ### Soluciones
-
-Utilizando netcat como en el ejercicio anterior pude entrar al contenido de la pagina, despues de eso solo utilice un buscador como en un ejercicio anterior el cual era 
-
+primero utilizo ssh para poder correr la linea que daba el problema esto con los datos que me daba la instancia
 ```
-nc jupiter.challenges.picoctf.org 14291 | grep "pico"
+PakoMarrano-picoctf@webshell:~$ ssh picoplayer@saturn.picoctf.net -p 52958
 ```
-
-esto solo para que me filtrara la linea donde estaba la respuesta
+ 
+despues solo escribi la contraseña y pude entrara, despues solo abri el documento con cat y me dio la bandera que buscaba 
 
 
 RESPUESTA
 
 ```
-picoCTF{digital_plumb3r_ea8bfec7}
+picoCTF{us3l3ss_ch4ll3ng3_3xpl0it3d_6140}
 ```
 
 

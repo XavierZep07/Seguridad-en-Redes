@@ -1,21 +1,16 @@
 ### Descripción 
-Sometimes you need to handle process data outside of a file. Can you find a way to keep the output from this program and search for the flag? Connect to `jupiter.challenges.picoctf.org 14291`.
+
+Do you know how to move between directories and read files in the shell? Start the container, `ssh` to it, and then `ls` once connected to begin. Login via `ssh` as `ctf-player` with the password, `a13b7f9d`
 
 ### Soluciones
 
-Utilizando netcat como en el ejercicio anterior pude entrar al contenido de la pagina, despues de eso solo utilice un buscador como en un ejercicio anterior el cual era 
-
-```
-nc jupiter.challenges.picoctf.org 14291 | grep "pico"
-```
-
-esto solo para que me filtrara la linea donde estaba la respuesta
-
+durante el problemas lo unico que hice fue usar los comandos basicos de linux para navegar entre las carpetas y poco a poco fui consiguendo las 3 partes de la bandera con los 3 archivos 
+![[Pasted image 20250903112443.png]]
 
 RESPUESTA
 
 ```
-picoCTF{digital_plumb3r_ea8bfec7}
+picoCTF{xxsh_0ut_0f_\/\/4t3r_71be5264}
 ```
 
 

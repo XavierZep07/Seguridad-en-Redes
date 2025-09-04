@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 - Nice netcat....md",
+                "file": "20 - First Find.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 - Nice netcat..."
+              "title": "20 - First Find"
             }
           }
         ]
@@ -171,25 +171,27 @@
   },
   "active": "d83aa2a1ff2cae7f",
   "lastOpenFiles": [
-    "09 - Glitch Cat.md",
-    "12 - strings it.md",
-    "10 - Nice netcat....md",
-    "16 - Tab, Tab, Attack.md",
-    "20 - First Find.md",
+    "18 - repetitions.md",
     "19 - Big zip.md",
+    "20 - First Find.md",
+    "17 - Magikarp Ground Mission.md",
+    "Pasted image 20250903112443.png",
+    "Pasted image 20250903112438.png",
+    "16 - Tab, Tab, Attack.md",
     "15 - useless.md",
+    "14 - Static ain't always noise.md",
+    "11 - Based.md",
+    "09 - Glitch Cat.md",
+    "10 - Nice netcat....md",
+    "13 - Wave a flag.md",
+    "07 - what's a net cat.md",
+    "06 - Obedient Cat.md",
+    "12 - strings it.md",
     "08 - plumbing.md",
     "Pasted image 20250902214320.png",
     "Pasted image 20250902214226.png",
-    "07 - what's a net cat.md",
-    "18 - repetitions.md",
-    "17 - Magikarp Ground Mission.md",
-    "14 - Static ain't always noise.md",
-    "13 - Wave a flag.md",
-    "11 - Based.md",
     "01  - Lets Warm Up.md",
     "Pasted image 20250902181114.png",
-    "06 - Obedient Cat.md",
     "03 - Warmed Up.md",
     "04 - Bases.md",
     "05 - First Grep.md",

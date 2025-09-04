@@ -1,21 +1,13 @@
 ### Descripción 
-Sometimes you need to handle process data outside of a file. Can you find a way to keep the output from this program and search for the flag? Connect to `jupiter.challenges.picoctf.org 14291`.
-
+Can you invoke help flags for a tool or binary? [This program](https://mercury.picoctf.net/static/cfea736820f329083dab9558c3932ada/warm) has extraordinarily helpful information...
 ### Soluciones
 
-Utilizando netcat como en el ejercicio anterior pude entrar al contenido de la pagina, despues de eso solo utilice un buscador como en un ejercicio anterior el cual era 
-
-```
-nc jupiter.challenges.picoctf.org 14291 | grep "pico"
-```
-
-esto solo para que me filtrara la linea donde estaba la respuesta
-
+Me puse a investigar sobre los comandos warn, primero descomprimiendo el archivo que da el problema, despues filtrando su informacion para que solo me muestre la linea que contenga picoCTF
 
 RESPUESTA
 
 ```
-picoCTF{digital_plumb3r_ea8bfec7}
+picoCTF{b1scu1ts_4nd_gr4vy_30e77291}
 ```
 
 

@@ -1,21 +1,13 @@
 ### Descripción 
-Sometimes you need to handle process data outside of a file. Can you find a way to keep the output from this program and search for the flag? Connect to `jupiter.challenges.picoctf.org 14291`.
-
+Can you find the flag in [file](https://jupiter.challenges.picoctf.org/static/5bd86036f013ac3b9c958499adf3e2e2/strings) without running it?
 ### Soluciones
 
-Utilizando netcat como en el ejercicio anterior pude entrar al contenido de la pagina, despues de eso solo utilice un buscador como en un ejercicio anterior el cual era 
-
-```
-nc jupiter.challenges.picoctf.org 14291 | grep "pico"
-```
-
-esto solo para que me filtrara la linea donde estaba la respuesta
-
+Investigando descubri el comando strings, el cual lee el archivo que le des el nombre, pero para poder filtrar la bandera, utilice aprendizajes previos, poniendo el comando grep para poder filtrar por la letra picoCTF
 
 RESPUESTA
 
 ```
-picoCTF{digital_plumb3r_ea8bfec7}
+picoCTF{5tRIng5_1T_827aee91}
 ```
 
 
@@ -24,3 +16,4 @@ picoCTF{digital_plumb3r_ea8bfec7}
 utilice conocimientos aprendidos en ejercicios anteriores
 
 ### Referencias 
+https://ioflood-com.translate.goog/blog/strings-linux-command/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc

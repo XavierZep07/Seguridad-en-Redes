@@ -1,26 +1,20 @@
 ### Descripción 
-Sometimes you need to handle process data outside of a file. Can you find a way to keep the output from this program and search for the flag? Connect to `jupiter.challenges.picoctf.org 14291`.
+Can you make sense of this file?Download the file [here](https://artifacts.picoctf.net/c/473/enc_flag).
 
 ### Soluciones
 
-Utilizando netcat como en el ejercicio anterior pude entrar al contenido de la pagina, despues de eso solo utilice un buscador como en un ejercicio anterior el cual era 
-
-```
-nc jupiter.challenges.picoctf.org 14291 | grep "pico"
-```
-
-esto solo para que me filtrara la linea donde estaba la respuesta
-
+primero abri el archivo, dandome cuenta que estaba codificado en base64, despues solo fui resolviendolo hasta que me dio la bandera de respuesta
 
 RESPUESTA
 
 ```
-picoCTF{digital_plumb3r_ea8bfec7}
+picoCTF{base64_n3st3d_dic0d!n8_d0wnl04d3d_dfe803c6}
 ```
 
 
 ### Notas adicionales 
 
-utilice conocimientos aprendidos en ejercicios anteriores
+el profesor me ayudo en clase jajaj
 
 ### Referencias 
+La clase

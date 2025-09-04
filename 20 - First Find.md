@@ -1,21 +1,19 @@
 ### Descripción 
-Sometimes you need to handle process data outside of a file. Can you find a way to keep the output from this program and search for the flag? Connect to `jupiter.challenges.picoctf.org 14291`.
+Unzip this archive and find the file named 'uber-secret.txt'
 
+- [Download zip file]
 ### Soluciones
 
-Utilizando netcat como en el ejercicio anterior pude entrar al contenido de la pagina, despues de eso solo utilice un buscador como en un ejercicio anterior el cual era 
+en este problemas solo era necesario encontrar el documento llamado uber-secret.txt, en el cual estaba escrita la bandera, facil
 
 ```
-nc jupiter.challenges.picoctf.org 14291 | grep "pico"
+files.zip/files/adequate_books/more_books/.secret/deeper_secrets/deepest_secrets/uber-secret.txt
 ```
-
-esto solo para que me filtrara la linea donde estaba la respuesta
-
 
 RESPUESTA
 
 ```
-picoCTF{digital_plumb3r_ea8bfec7}
+picoCTF{f1nd_15_f457_ab443fd1}
 ```
 
 

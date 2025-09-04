@@ -1,21 +1,19 @@
 ### Descripción 
-Sometimes you need to handle process data outside of a file. Can you find a way to keep the output from this program and search for the flag? Connect to `jupiter.challenges.picoctf.org 14291`.
+Unzip this archive and find the flag.
 
+- [Download zip file]
 ### Soluciones
 
-Utilizando netcat como en el ejercicio anterior pude entrar al contenido de la pagina, despues de eso solo utilice un buscador como en un ejercicio anterior el cual era 
+solo descargue el zip, depues de ver que habia muchas carpetas utilice el comando:
 
 ```
-nc jupiter.challenges.picoctf.org 14291 | grep "pico"
+grep -r "picoCTF"
 ```
-
-esto solo para que me filtrara la linea donde estaba la respuesta
-
 
 RESPUESTA
 
 ```
-picoCTF{digital_plumb3r_ea8bfec7}
+picoCTF{gr3p_15_m4g1c_ef8790dc}
 ```
 
 
