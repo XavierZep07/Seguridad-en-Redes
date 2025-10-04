@@ -11,10 +11,14 @@
             "id": "3f486d5037ffab23",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "61 - WebDecode.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "61 - WebDecode"
             }
           }
         ]
@@ -40,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
@@ -153,22 +157,42 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
   "active": "3f486d5037ffab23",
   "lastOpenFiles": [
+    "60 - Unminify.md",
+    "59 - SQLiLite.md",
+    "58 - Secrets.md",
+    "57 - Roboto Sans.md",
+    "56 - Power Cookie.md",
+    "55 - Local Authority.md",
+    "54 - IntroToBurp.md",
+    "53 - Inspect HTML.md",
+    "52 - Includes.md",
+    "51 - What Lies Whitin.md",
+    "50 - extensions.md",
+    "61 - WebDecode.md",
+    "SQLiLite.md",
+    "Secrets.md",
+    "Roboto Sans.md",
+    "Power Cookie.md",
+    "Local Authority.md",
+    "IntroToBurp.md",
+    "Inspect HTML.md",
+    "Includes.md",
+    "WebDecode.md",
+    "Unminify.md",
     "49 - shark on wire 1.md",
     "48 - So Meta.md",
-    "50 - extensions.md",
     "47 - Glory of the Garden.md",
-    "51 - What Lies Whitin.md",
     "46 - Most Cookies.md"
   ]
 }
