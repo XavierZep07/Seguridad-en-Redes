@@ -6,7 +6,7 @@ Try [here](http://titan.picoctf.net:54639/) to find the flag
 ### Solucion
 
 ```
-picoCTF{#0TP_Bypvss_SuCc3$S_3e3ddc76}
+picoCTF{#0TP_Bypvss_SuCc3$S_b3fa4f1a}
 ```
 ### Notas Adicionales
 usar burpsite para interceptar foward hasta llegar a la autenticacion

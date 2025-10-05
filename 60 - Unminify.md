@@ -7,7 +7,7 @@ Additional details will be available after launching your challenge instance.
 ### Solucion
 
 ```
-picoCTF{pr3tty_c0d3_dbe259ce}
+picoCTF{pr3tty_c0d3_d9c45a0b}
 ```
 ### Notas Adicionales
 buscar entre los divs del inspector

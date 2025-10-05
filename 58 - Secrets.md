@@ -5,9 +5,9 @@ We have several pages hidden. Can you find the one with the flag?The website is 
 ### Solucion
 
 ```
-picoCTF{succ3ss_@h3n1c@10n_790d2615}
+picoCTF{succ3ss_@h3n1c@10n_51b260fe}
 ```
 ### Notas Adicionales
-
+fui navegando entre las diferentes url hasta que llegue a superhidden donde encontre la bandera 
+view-source:http://saturn.picoctf.net:53076/secret/hidden/superhidden/
 ### Referencias
-https://youtu.be/3R30nwCr3F4
