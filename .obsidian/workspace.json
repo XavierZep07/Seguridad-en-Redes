@@ -11,10 +11,14 @@
             "id": "e657e9cf555ee691",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "74 - Operation Oni.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "74 - Operation Oni"
             }
           }
         ]
@@ -164,6 +168,13 @@
   },
   "active": "e657e9cf555ee691",
   "lastOpenFiles": [
+    "Pasted image 20250901103813.png",
+    "77 - Sleuthkit Intro.md",
+    "76 - Sleuthkit Apprentice.md",
+    "75 - Operation Orchid.md",
+    "74 - Operation Oni.md",
+    "73 - Milkslap.md",
+    "72 - Disk, disk, sleuth!.md",
     "71 - WebNet1.md",
     "70 - WebNet0.md",
     "69 - tunn3l v1s10n.md",
@@ -183,13 +194,6 @@
     "Primer Examen Parcial/17. Java Code Analysis!?!.md",
     "Primer Examen Parcial/16. findme.md",
     "Primer Examen Parcial/15. SSTI1.md",
-    "Primer Examen Parcial/12. Cookie Monster Secret Recipe.md",
-    "Primer Examen Parcial/11.  Bookmarklet.md",
-    "Primer Examen Parcial/4. Rust fixme 1.md",
-    "Primer Examen Parcial/5. Rust fixme 2.md",
-    "Primer Examen Parcial/3. Python Wrangling.md",
-    "Primer Examen Parcial/2. HashingJobApp.md",
-    "Primer Examen Parcial/1. FANTASY CTF.md",
     "picoMini 2025",
     "Primer Examen Parcial"
   ]
