@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2a453df705703e87",
+        "id": "aa982e8db1dd925b",
         "type": "tabs",
         "children": [
           {
-            "id": "e657e9cf555ee691",
+            "id": "4e557242f0c12b64",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "74 - Operation Oni.md",
+                "file": "Crypto 1/85 - waves over lambda.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "74 - Operation Oni"
+              "title": "85 - waves over lambda"
             }
           }
         ]
@@ -166,35 +166,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "e657e9cf555ee691",
+  "active": "4e557242f0c12b64",
   "lastOpenFiles": [
+    "Crypto 1/84 - Tapping.md",
+    "Crypto 1/85 - waves over lambda.md",
+    "Crypto 1/83 - la cifra de.md",
+    "Crypto 1/82 - easy 1.md",
+    "Crypto 1/80 - The Numbers.md",
+    "Crypto 1/81 - caesar.md",
+    "Crypto 1/79 - interencdec.md",
+    "Crypto 1/78 - 13.md",
+    "Forensic 4/73 - Milkslap.md",
+    "Forensic 1/47 - Glory of the Garden.md",
+    "Untitled",
+    "Forensic 4/72 - Disk, disk, sleuth!.md",
     "Pasted image 20250901103813.png",
-    "77 - Sleuthkit Intro.md",
-    "76 - Sleuthkit Apprentice.md",
-    "75 - Operation Orchid.md",
-    "74 - Operation Oni.md",
-    "73 - Milkslap.md",
-    "72 - Disk, disk, sleuth!.md",
-    "71 - WebNet1.md",
-    "70 - WebNet0.md",
-    "69 - tunn3l v1s10n.md",
-    "68 - Matryoshka doll.md",
-    "67 - MacroHard WeakEdge.md",
-    "66 - shark on wire 2.md",
-    "65 - like 1000.md",
+    "Forensic 4",
+    "Forensic 1/48 - So Meta.md",
+    "Forensic 3",
+    "Forensic 2",
+    "Tarea 2 Retos Web",
+    "Forensic 4/77 - Sleuthkit Intro.md",
+    "Forensic 1",
+    "Web Part 4",
+    "Web Part 3",
+    "Web Part 2",
+    "Web Part 1",
+    "Forensic 4/74 - Operation Oni.md",
+    "Forensic 4/76 - Sleuthkit Apprentice.md",
+    "Forensic 4/75 - Operation Orchid.md",
+    "Forensic 3/71 - WebNet1.md",
+    "Forensic 3/70 - WebNet0.md",
+    "Forensic 3/69 - tunn3l v1s10n.md",
+    "Forensic 3/68 - Matryoshka doll.md",
+    "Forensic 3/67 - MacroHard WeakEdge.md",
+    "Forensic 2/66 - shark on wire 2.md",
+    "Forensic 2/65 - like 1000.md",
     "picoMini 2025/Crack the Gate 1.md",
-    "47 - Glory of the Garden.md",
-    "62 - M00nwalk.md",
-    "63 - WhitePages.md",
-    "64 - c0rrupt.md",
-    "61 - WebDecode.md",
-    "60 - Unminify.md",
-    "Primer Examen Parcial/19. SSTI2.md",
-    "Primer Examen Parcial/18. SQL Direct.md",
-    "Primer Examen Parcial/17. Java Code Analysis!?!.md",
-    "Primer Examen Parcial/16. findme.md",
-    "Primer Examen Parcial/15. SSTI1.md",
-    "picoMini 2025",
-    "Primer Examen Parcial"
+    "Forensic 2/62 - M00nwalk.md",
+    "Forensic 2/63 - WhitePages.md"
   ]
 }
