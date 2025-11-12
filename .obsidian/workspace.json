@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6fdf832a920357db",
+        "id": "918595c1cd613638",
         "type": "tabs",
         "children": [
           {
-            "id": "4ef4950fef612bb0",
+            "id": "60e465cd378df02f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reversing 1/116 - vault-door-1.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "116 - vault-door-1"
+              "title": "New tab"
             }
           }
         ]
@@ -166,44 +162,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "4ef4950fef612bb0",
+  "active": "60e465cd378df02f",
   "lastOpenFiles": [
+    "Tarea 4 Crypto/106 - EVEN RSA CAN BE BROKEN???.md",
     "Tarea 4 Crypto/109 - morse-code.md",
+    "Tarea 4 Crypto/114 - Vigenere.md",
+    "Tarea 4 Crypto/111 - substitution0.md",
+    "Tarea 4 Crypto/112 - substitution1.md",
+    "Tarea 4 Crypto/113 - substitution2.md",
+    "Tarea 4 Crypto/110 - rail-fence.md",
     "Tarea 4 Crypto/108 - credstuff.md",
     "Tarea 4 Crypto/107 - Crack the Power.md",
-    "Tarea 4 Crypto/106 - EVEN RSA CAN BE BROKEN???.md",
+    "Reversing 2/121 - timer.md",
+    "Reversing 2/120 - Safe Opener 2.md",
+    "Reversing 2/119 - Safe Opener.md",
+    "Reversing 2/118 - Picker IV.md",
+    "Reversing 2/117 - Picker III.md",
+    "Reversing 2/116 - Picker II.md",
+    "Reversing 2/115 - Picker I.md",
+    "PLANTILLAS.md",
+    "Reversing 2",
+    "Reversing 1/116 - vault-door-1.md",
     "Reversing 1/118 - vault-door-5.md",
     "Reversing 1/117 - vault-door-3.md",
-    "Reversing 1/116 - vault-door-1.md",
     "Reversing 1/115 - vault-door-training.md",
     "Crypto 4/105 - flags.md",
     "Reversing 1",
-    "PLANTILLAS.md",
-    "Tarea 4 Crypto/114 - Vigenere.md",
-    "Tarea 4 Crypto/113 - substitution2.md",
-    "Tarea 4 Crypto/111 - substitution0.md",
-    "Tarea 4 Crypto/112 - substitution1.md",
-    "Tarea 4 Crypto/110 - rail-fence.md",
     "Tarea 4 Crypto",
     "Crypto 4/104 - ReadMyCert.md",
     "Crypto 4/103 - HideToSee.md",
     "Crypto 4/102 - basic-mod1.md",
     "Crypto 4/101 - Pixelated.md",
-    "Crypto 3/100 - miniRSA.md",
     "Crypto 4",
-    "Crypto 3/99 - b00tl3gRSA3.md",
-    "Crypto 3/98 - b00tl3gRSA2.md",
-    "Crypto 3/97 - Mind your Ps and Qs.md",
-    "Crypto 2/96 - rsa-pop-quiz.md",
     "Crypto 3",
     "Crypto 2",
-    "Tarea 3 Forensic/92 - flags are stepic ERROR.md",
     "Crypto 2",
-    "Tarea 3 Forensic/95 - St3g0.md",
     "Tarea 3 Forensic",
     "Pasted image 20250901103813.png",
     "Forensic 4",
-    "Forensic 3",
-    "Forensic 2"
+    "Forensic 3"
   ]
 }
