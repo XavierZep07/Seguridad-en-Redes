@@ -8,9 +8,10 @@ Additional details will be available after launching your challenge instance.
 RESPUESTA
 
 ```
-
+picoCTF{f1l73r5_f41l_c0d3_r3f4c70r_m1gh7_5ucc33d_0b5f1131}
 ```
 
 ### Notas adicionales 
-
+utilizando esa linea pude entrar al archivo flag y encontrar la bandera
+print(open('flag.txt', 'r').read())
 ### Referencias
